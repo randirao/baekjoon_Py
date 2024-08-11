@@ -1,9 +1,9 @@
 while True :
     a = input()    #120
-    sum = 1 #기본 여백
     if a=='0' :
         break
     else :
+        sum = 1 #기본 여백
         for i in a:
             if i == '1':
                 sum += 3
