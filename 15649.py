@@ -1,5 +1,5 @@
 n, m = map(int, input().split())
-array = []
+arr = []
 for i in range(n) :
     arr.append(i)
     if arr[i] == m :
