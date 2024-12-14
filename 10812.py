@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(10**6)
+
 aX = [0, 0, -1, 1]
 aY = [-1, 1, 0, 0]
 
